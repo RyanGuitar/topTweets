@@ -23,7 +23,7 @@ main {
     height:auto;
     blockquote {
         min-height:500px;
-        width:40%;
+        width:100%;
         background: rgb(50,50,50);
         .content {
             visibility: hidden;
