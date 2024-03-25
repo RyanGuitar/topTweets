@@ -21,10 +21,13 @@ main {
     position:absolute;
     width:100%;
     height:auto;
-    .card {
-        background: red;
-        width:auto;
-        min-height:450px;
+    blockquote {
+        min-height:500px;
+        width:40%;
+        background: rgb(50,50,50);
+        .content {
+            visibility: hidden;
+        }
     }
 }
 
